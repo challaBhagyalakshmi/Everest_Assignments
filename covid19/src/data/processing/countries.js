@@ -25,6 +25,4 @@ async function export_data_countries_table() {
     });
 }
 
-export_data_countries_table();
-
 module.exports = { export_data_countries_table };
